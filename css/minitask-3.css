@@ -1,0 +1,6 @@
+div {
+    margin-block: 10px;
+    label {
+        margin-right: 5px;
+    }
+}

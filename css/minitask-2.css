@@ -1,0 +1,19 @@
+.lamp {
+    width: 80px;
+    height: 80px;
+    margin: 10px 0;
+    border-radius: 50%;
+    background: #444;
+}
+  
+.red.active {
+    background: red;
+}
+  
+.yellow.active {
+    background: yellow;
+}
+  
+.green.active {
+    background: green;
+}

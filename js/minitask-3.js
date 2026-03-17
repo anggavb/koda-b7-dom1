@@ -104,6 +104,7 @@ formList.forEach(form => {
     const input = document.createElement("input")
     input.setAttribute("type", form.type)
     input.setAttribute("name", form.name)
+    input.setAttribute("id", form.name)
     wrapper.appendChild(input)
   }
 
